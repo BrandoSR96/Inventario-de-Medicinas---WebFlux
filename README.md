@@ -80,7 +80,7 @@ Body (JSON):
 ## **Ejecución**
 1. Clona el repositorio:
 ```
-git clone https://github.com/BrandoSR96/inventario-medicinas-reactivo.git
+git clone https://github.com/BrandoSR96/Inventario-de-Medicinas-WebFlux.git
 ```
 2. Navega al directorio del proyecto:
 ```
